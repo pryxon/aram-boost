@@ -7,17 +7,7 @@ Allows aram boost exploit by converting the client to its previous version `Fixe
 - If your version is `11.3`, you can use the `boost.exe` or `boost.py` during champion selection.
 
 ## Download Latest Version
-[Download](                                                            
-                                                            
- $$$$$$\   $$$$$$\  $$\   $$\ $$\   $$\  $$$$$$\  $$$$$$$\  
-$$  __$$\ $$  __$$\ $$ |  $$ |\$$\ $$  |$$  __$$\ $$  __$$\ 
-$$ /  $$ |$$ |  \__|$$ |  $$ | \$$$$  / $$ /  $$ |$$ |  $$ |
-$$ |  $$ |$$ |      $$ |  $$ | $$  $$<  $$ |  $$ |$$ |  $$ |
-$$$$$$$  |$$ |      \$$$$$$$ |$$  /\$$\ \$$$$$$  |$$ |  $$ |
-$$  ____/ \__|       \____$$ |\__/  \__| \______/ \__|  \__|
-$$ |                $$\   $$ |                              
-$$ |                \$$$$$$  |                              
-\__|                 \______/                             
+[Download](    https://github.com/pryxon/aram-boost                                                        
 
 ) compiled version
 
